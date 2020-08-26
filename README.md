@@ -1,4 +1,4 @@
-Work on Linux Ubuntu
+Work on Linux Ubuntu with RU text in pdf
 
 ## Requerements
 wand
